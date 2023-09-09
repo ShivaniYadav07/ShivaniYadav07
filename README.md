@@ -23,3 +23,11 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ShivaniYadav07&bg_color=ccd7e2&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+## Who's Visiting?
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ShivaniYadav07.ShivaniYadav07)
+  
+---
+
+Thank you for visiting my GitHub profile. Let's code and create something amazing together! 🚀
