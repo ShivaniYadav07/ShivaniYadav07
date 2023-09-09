@@ -30,4 +30,3 @@
   
 ---
 
-Thank you for visiting my GitHub profile. Let's code and create something amazing together! 🚀
