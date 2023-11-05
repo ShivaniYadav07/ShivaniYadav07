@@ -29,9 +29,9 @@ CSS           1 min           ░░░░░░░░░░░░░░░░�
 SCSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
-<p align=""><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivaniyadav07&bg_color=ccd7e2&border_color&show_icons=true&locale=en&layout=compact" alt="shivaniyadav07" /></p>
+<p align=""><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivaniyadav07&theme=onedark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="shivaniyadav07" /></p>
 
-<p align=""><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=shivaniyadav07&&bg_color=ccd7e2" alt="shivaniyadav07" /></p>
+<p align=""><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=shivaniyadav07&theme=onedark&hide_border=truer" alt="shivaniyadav07" /></p>
 
 
 
