@@ -22,11 +22,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-ReactJS   5 hrs 3 mins    ████████████████░░░░░░░░░   63.93 %
-JavaScript       1 hr 40 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.26 %
+ReactJS       5 hrs 3 mins    ████████████████░░░░░░░░░   63.93 %
+JavaScript    1 hr 40 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.26 %
 Node          1 hr 7 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
-CSS        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+CSS           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+SCSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <p align=""><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivaniyadav07&bg_color=ccd7e2&border_color&show_icons=true&locale=en&layout=compact" alt="shivaniyadav07" /></p>
