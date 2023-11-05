@@ -3,7 +3,7 @@
 
 <p> <a href="https://twitter.com/shivaniyadav_07" target="blank"><img src="https://img.shields.io/twitter/follow/shivaniyadav_07?logo=twitter&style=for-the-badge" alt="shivaniyadav_07" /></a> </p>
 <!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
-- 👨‍💻 All of my projects are available at [https://www.shivaniyadav.online/](https://www.shivaniyadav.online/)
+- 👨‍💻 All of my projects are available at https://www.shivaniyadav.online/
 
 <h3>Connect with me:</h3>
 <p>
@@ -18,15 +18,21 @@
 ### Vibing to
 [![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/ak6rgwer8utlykvcgi7gc73mq)
 
+### 👨‍💻 Where I spent time on this week
+<!--START_SECTION:waka-->
+
+```txt
+ReactJS   5 hrs 3 mins    ████████████████░░░░░░░░░   63.93 %
+JavaScript       1 hr 40 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.26 %
+Node          1 hr 7 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
+CSS        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+```
 
 <p align=""><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivaniyadav07&bg_color=ccd7e2&border_color&show_icons=true&locale=en&layout=compact" alt="shivaniyadav07" /></p>
 
-<p align="">&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=shivaniyadav07&bg_color=ccd7e2&show_icons=true&locale=en" alt="shivaniyadav07" /></p>
-
 <p align=""><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=shivaniyadav07&&bg_color=ccd7e2" alt="shivaniyadav07" /></p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ShivaniYadav07&bg_color=ccd7e2&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 
 
