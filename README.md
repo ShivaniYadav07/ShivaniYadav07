@@ -9,7 +9,7 @@
 <p>
 <a href="https://twitter.com/shivaniyadav_07" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivaniyadav_07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shivani-yadav-01a626269/" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivani-yadav-01a626269/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22393787/shivani-yadav" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22393787/shivani-yadav" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22393787/shivani-yadav" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22393787/shivani-yadav" height="30" width="40" /></a>
 </p>
 
 <h3 align="">Languages and Tools:</h3>
