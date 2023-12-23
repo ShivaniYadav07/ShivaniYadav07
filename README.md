@@ -18,7 +18,6 @@
 ### Vibing to
 [![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/ak6rgwer8utlykvcgi7gc73mq)
 
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=ShivaniYadav07&row=2&column=4)
 ### 👨‍💻 Where I spent time on this week
 <!--START_SECTION:waka-->
 
