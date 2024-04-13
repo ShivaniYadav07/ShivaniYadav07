@@ -3,7 +3,7 @@
 
 <p> <a href="https://twitter.com/shivaniyadav_07" target="blank"><img src="https://img.shields.io/twitter/follow/shivaniyadav_07?logo=twitter&style=for-the-badge" alt="shivaniyadav_07" /></a> </p>
 <!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
-- 👨‍💻 All of my projects are available at https://www.shivaniyadav.vercel.app/
+- 👨‍💻 All of my projects are available at https://shivaniyadav.vercel.app
 
 <h3>Connect with me:</h3>
 <p>
