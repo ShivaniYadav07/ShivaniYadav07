@@ -3,7 +3,7 @@
 <!-- HEADER -->
 <div align="center">
   
-<img src="https://i.imgur.com/pY8aA4d.jpeg"
+<img src="[https://i.imgur.com/pY8aA4d.jpeg](https://chatgpt.com/backend-api/estuary/content?id=file_0000000046a0720697241ed37c4eabf9&ts=489950&p=fs&cid=1&sig=f504058a939811f94fb41a6da2b066a4c8ed39f8c93ed840d87f550395cea4ba&v=0)"
      width="200"
      style="
         border-radius: 50%;
