@@ -84,7 +84,7 @@
 ---
 
 # 🎧 **Vibing To**
-[![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/31phlsrgqwjg4nf5a6l6fl7nz6ki)
+[![Spotify](https://open.spotify.com/user/31phlsrgqwjg4nf5a6l6fl7nz6ki?flow_ctx=1a8560b0-6573-4898-8abb-08f336ed7c46%3A1763845422)
 
 ---
 
