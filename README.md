@@ -3,7 +3,14 @@
 <!-- HEADER -->
 <div align="center">
   
-<img src="https://i.imgur.com/pY8aA4d.jpeg" width="200" style="border-radius: 50%; box-shadow: 0 0 20px #ffb6d9;" />
+<img src="https://i.imgur.com/pY8aA4d.jpeg"
+     width="200"
+     style="
+        border-radius: 50%;
+        padding: 4px;
+        background: linear-gradient(45deg, #ff66c4, #ffb6d9, #ffa8e2);
+        box-shadow: 0 0 15px #ff8ac6;
+     " />
 
 # 🌸 Hi, I'm **Shivani Yadav** 🌸  
 ### ✨ Full-Stack Developer | MERN | Next.js | AI/LLMs Enthusiast ✨
@@ -81,10 +88,3 @@
 
 ---
 
-# 🕒 Weekly Coding Time  
-```txt
-ReactJS       5 hrs 3 mins   ████████████████░░░░░░░░░   63.93 %
-JavaScript    1 hr 40 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.26 %
-Node          1 hr 7 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
-CSS           1 min          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-SCSS          0 secs         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
