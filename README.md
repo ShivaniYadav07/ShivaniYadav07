@@ -3,14 +3,29 @@
 <!-- HEADER -->
 <div align="center">
   
-<img src="[https://i.imgur.com/pY8aA4d.jpeg](https://chatgpt.com/backend-api/estuary/content?id=file_0000000046a0720697241ed37c4eabf9&ts=489950&p=fs&cid=1&sig=f504058a939811f94fb41a6da2b066a4c8ed39f8c93ed840d87f550395cea4ba&v=0)"
-     width="200"
-     style="
-        border-radius: 50%;
-        padding: 4px;
-        background: linear-gradient(45deg, #ff66c4, #ffb6d9, #ffa8e2);
-        box-shadow: 0 0 15px #ff8ac6;
-     " />
+<div align="center" style="
+    background: linear-gradient(135deg, #ffb6d9, #ff9ac2, #ff77b4);
+    padding: 40px 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 25px rgba(255, 150, 200, 0.45);
+    color: white;
+    font-family: 'Segoe UI', sans-serif;
+">
+    <h1 style="
+        font-size: 48px;
+        margin: 0;
+        font-weight: 700;
+        text-shadow: 0 0 10px rgba(255, 240, 250, 0.8);
+    ">
+       🎀  Shivani Yadav 🎀
+    </h1>
+
+<p align="center">
+    Pretty • Pastel • Modern • Feminine Developer Aesthetic 💗✨
+</p>
+
+</div>
+
 
 # 🌸 Hi, I'm **Shivani Yadav** 🌸  
 ### ✨ Full-Stack Developer | MERN | Next.js | AI/LLMs Enthusiast ✨
