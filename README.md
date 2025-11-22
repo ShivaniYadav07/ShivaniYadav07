@@ -17,7 +17,7 @@
         font-weight: 700;
         text-shadow: 0 0 10px rgba(255, 240, 250, 0.8);
     ">
-       🎀  Shivani Yadav 🎀
+       🎀  Hi, This is Shivani Yadav 🎀
     </h1>
 
 <p align="center">
@@ -27,7 +27,7 @@
 </div>
 
 
-# 🌸 Hi, I'm **Shivani Yadav** 🌸  
+#   
 ### ✨ Full-Stack Developer | MERN | Next.js | AI/LLMs Enthusiast ✨
 
 <img src="https://komarev.com/ghpvc/?username=shivaniyadav07&label=Profile%20Visitors&color=ff7ac6&style=for-the-badge" />
