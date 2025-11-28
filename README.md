@@ -81,8 +81,6 @@
 
 ### 🌸 **AI / ML / LLM**
 <p align="left">
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg" />
-<img height="40" src="https://i.imgur.com/4NZ6uLY.png" />
 </p>
 
 ---
@@ -95,11 +93,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivaniyadav07&theme=rose_pine&layout=compact&hide_border=true" width="380" />
 
 </div>
-
----
-
-# 🎧 **Vibing To**
-[![Spotify](https://open.spotify.com/user/31phlsrgqwjg4nf5a6l6fl7nz6ki?flow_ctx=1a8560b0-6573-4898-8abb-08f336ed7c46%3A1763845422)
 
 ---
 
