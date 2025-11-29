@@ -84,6 +84,11 @@
 </p>
 
 ---
+<p align="left">
+<img src="https://private-user-images.githubusercontent.com/13622306/507331223-54dc1f7a-f327-43ab-ae9c-58c7421eee39.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQzOTYxODMsIm5iZiI6MTc2NDM5NTg4MywicGF0aCI6Ii8xMzYyMjMwNi81MDczMzEyMjMtNTRkYzFmN2EtZjMyNy00M2FiLWFlOWMtNThjNzQyMWVlZTM5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI5VDA1NTgwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk1NmRhODMwZTcxYzYyOGMwNDdjMGYzYjI3ODA3ZWQwNTQ2MmQwNWJkNDdkMzNlYzI0YTdhNDgzZTljYzRlZmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.RrYsP0nkQqmpX3penEA-sCDjN0dNc3S8fIFnAURPnFE" />
+</p>
+
+---
 
 # 💕 **Stats that Sparkle** ✨
 <div align="center">
