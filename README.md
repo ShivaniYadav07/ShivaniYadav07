@@ -21,7 +21,7 @@
     </h1>
 
 <p align="center">
-    Pretty • Pastel • Modern • Feminine Developer Aesthetic 💗✨
+    Pretty • Pastel • Modern • 💗✨
 </p>
 
 </div>
